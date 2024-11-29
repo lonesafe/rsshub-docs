@@ -107,6 +107,11 @@ const instances = [{
     location: '🇭🇰',
     maintainer: 'nesay',
     maintainerUrl: 'https://umzzz.com',
+  }, {
+    url: 'https://rsshub.thzu.xyz',
+    location: '🇭🇰',
+    maintainer: 'thzu',
+    maintainerUrl: 'https://thzu.xyz',
   }
 ]
 
